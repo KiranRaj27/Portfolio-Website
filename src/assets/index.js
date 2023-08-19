@@ -25,6 +25,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import tiltlabs from './company/tiltlabs.jpeg'
+import weamse from './company/weamse.jpeg'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -53,6 +55,8 @@ export {
   typescript,
   threejs,
   meta,
+  weamse,
+  tiltlabs,
   shopify,
   starbucks,
   tesla,
